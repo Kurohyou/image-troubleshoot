@@ -12,4 +12,4 @@ Emilee Bogdan
 
 -[LinkedIn](https://www.linkedin.com/in/emileebogdan/)
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](./images/screenshot.png)
